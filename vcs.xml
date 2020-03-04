@@ -22,6 +22,10 @@
           <option name="url" value="http://git.htwysoft.com/htwy/cms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.htwysoft.com/jiazhiguo/sso-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects" />
