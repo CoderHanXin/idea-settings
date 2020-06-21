@@ -6,45 +6,6 @@
           <option name="url" value="http://git.htwysoft.com" />
           <option name="userName" value="hanxinlei" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.htwysoft.com/htwy/bigdata-api.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.htwysoft.com/htwy/data-service.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.htwysoft.com/htwy/meta-manage.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.htwysoft.com/htwy/cms.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.htwysoft.com/jiazhiguo/sso-server.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.htwysoft.com/jixv/metadata-api.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.htwysoft.com/htwy/data-front-api.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-      </list>
-    </option>
-    <option name="cloneParentDir" value="D:\Projects" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
       </list>
     </option>
   </component>
