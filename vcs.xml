@@ -10,6 +10,10 @@
           <option name="url" value="http://git.htwysoft.com/htwy/data-coll-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.htwysoft.com/htwy/base-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects" />
