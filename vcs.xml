@@ -34,6 +34,10 @@
           <option name="url" value="http://git.htwysoft.com/htwy/fang-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="coder.hanxin@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects" />
